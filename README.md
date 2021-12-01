@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msostaric-hub
+- 👋 Hi, I’m Marko
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mark.sost@gmail.com
